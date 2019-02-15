@@ -1,0 +1,3 @@
+numpy==1.16.*
+pandas==0.24.*
+rasterio==0.34.*
